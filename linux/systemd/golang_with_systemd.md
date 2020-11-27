@@ -210,7 +210,7 @@ systemctl status systemd-test.service
 ```
 
 状态如下
-![](https://github.com/greegroup/test/blob/master/linux/systemd/assets/systemd_01.png)	
+![](https://raw.githubusercontent.com/greegroup/test/master/linux/systemd/assets/systemd_01.png)	
 
 可以通过 curl 进行测试：
-![](https://github.com/greegroup/test/blob/master/linux/systemd/assets/systemd_02.png)
+![](https://raw.githubusercontent.com/greegroup/test/master/linux/systemd/assets/systemd_02.png)
